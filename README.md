@@ -5,4 +5,5 @@ If you're wondering where the data is stored, the answer to that unaskedquestion
 
 
 This is one of the first basic project ive made. One of many yet to come ,lol.
-see y'all later
+see y'all later.
+arigatho gozaimas:pray:
