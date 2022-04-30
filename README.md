@@ -1,5 +1,5 @@
 # to-do-list
-A smol to-do-list i've made using the tkinter module of python. 
+A smol to-do-list i've made using the **tkinter** module of **python**. 
 If you're wondering where the data is stored, the answer to that unaskedquestion is **sqlite**
 
 
